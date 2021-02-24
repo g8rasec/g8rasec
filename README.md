@@ -3,8 +3,7 @@
 # Guilherme César
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou Desenvolvedor :computer:
+Sou apaixonado por resolver problemas utilizando a programação. :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Kroton**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React e Back-end usando Node
