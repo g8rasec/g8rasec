@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://i.imgur.com/Inf0kjD.jpg">
 
 # Guilherme César
 
