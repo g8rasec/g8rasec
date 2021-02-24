@@ -1,4 +1,4 @@
-<img width="auto" src="https://i.imgur.com/yATfEXU.jpg">
+<img width="auto" src="https://i.imgur.com/Wpoh2dD.jpg">
 
 # Guilherme César
 
