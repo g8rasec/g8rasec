@@ -1,6 +1,6 @@
 <img width="auto" src="https://i.imgur.com/Wpoh2dD.jpg">
 
-# Guilherme César
+# Gui
 
 ## Olá pessoal 👋
 Curto demais resolver problemas utilizando a programação. :computer:
