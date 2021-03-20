@@ -1,6 +1,6 @@
 <img width="auto" src="https://i.imgur.com/Wpoh2dD.jpg">
 
-# Gui
+# Gui 😎
 
 ## Olá pessoal 👋
 Curto demais resolver problemas utilizando a programação. :computer:
