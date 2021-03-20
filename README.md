@@ -3,7 +3,7 @@
 # Gui :sunglasses:
 
 ## Olá pessoal :wave:
-Curto demais resolver problemas utilizando a programação. :computer:
+Curto demais resolver problemas utilizando a programação :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Kroton**
  <br/> :heart: &nbsp; Buscando colaborar com projetos em Back-end usando Node e Front-end usando React
