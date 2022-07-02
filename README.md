@@ -1,7 +1,7 @@
 <img width="auto" src="https://i.imgur.com/Wpoh2dD.jpg">
 
-## Bem vindo :wave:
-Curto demais criar soluções utilizando programação :computer:
+## Chega mais :wave:
+Curto demais criar soluções e resolver problemas utilizando programação :computer:
 
  <br/> 👨‍💻  &nbsp; Estou trabalhando na **Kroton Tech** uma empresa do grupo **Cogna**
  <br/> :heart: &nbsp; Buscando colaborar com projetos em Back-end usando Node.js e Front-end usando React, também projetos TypeScript
