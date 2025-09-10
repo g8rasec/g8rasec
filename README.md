@@ -1,4 +1,4 @@
-<img width="auto" src="https://i.imgur.com/Wpoh2dD.jpg">
+<img width="auto" src="https://i.imgur.com/M0Cu6yC.jpg">
 
 ## Hello World :world_map:
 
